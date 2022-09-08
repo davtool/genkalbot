@@ -1,9 +1,9 @@
 {
-    "name": "Genius-Userbot",
+    "name": "genkalbot",
     "logo": "https://te.legra.ph/file/ceee32999a8250a1f7ebb.png",
     "description": "An Advanced Premium Music & user Bot For Telegram ID.",
     "keywords": ["music", "voice chat", "userbot"],
-    "repository": "https://github.com/GeniusBoi/Genius-Userbot",
+    "repository": "https://github.com/davtool/genkalbot",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -40,7 +40,7 @@
       "url": "heroku/python"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+      "url": "https://github.com/davtool/heroku-buildpack-ffmpeg-lts.git"
     }
   ]
 }
